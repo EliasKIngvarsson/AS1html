@@ -1,0 +1,15 @@
+
+*{margin: 0;
+    padding:0;
+}
+
+.h1-assig1{
+ color: red;
+}
+
+div>img{
+    border: 1px solid red;
+}
+.container{
+    border: 5px solid black;
+}
